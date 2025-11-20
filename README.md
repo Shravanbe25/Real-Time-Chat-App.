@@ -43,3 +43,13 @@ Hosted fully on frontend and Firebase, no backend server required.
 
 ## 📂 Folder Structure
 
+real-time-chat-app/
+│── public/
+│── src/
+│ ├── App.js
+│ ├── firebase.js
+│ ├── ChatWindow.js
+│ ├── Login.js
+│ ├── index.js
+│── package.json
+│── README.md
